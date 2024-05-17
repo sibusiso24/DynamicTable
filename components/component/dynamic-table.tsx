@@ -142,7 +142,7 @@ export function DynamicTable() {
   )
 }
 
-function DeleteIcon(props) {
+function DeleteIcon(props:any) {
   return (
     <svg
       {...props}
